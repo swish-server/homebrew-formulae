@@ -1,6 +1,16 @@
 # Homebrew Formulae
 
-🍺 Homebrew formulae for swish tools. 
+🍺 Homebrew formulae for swish tools.
+
+## Usage
+
+```
+brew tap swish-server/homebrew-formulae
+```
+
+## Tools
+
+[...]
 
 ## License
 
